@@ -29,7 +29,7 @@ Aplicação web do Jogo da Velha desenvolvida como atividade prática da discipl
    ```bash
    git clone https://github.com/AllisonOliv/jogo-da-velha-unifor.git
    ```
-2. Abra o arquivo `src/index.html` diretamente no navegador.  
+2. Abra o arquivo `index.html` diretamente no navegador.  
    Não é necessário servidor, instalação ou dependência externa.
 
 ---
@@ -42,6 +42,7 @@ jogo-da-velha-unifor/
 │   └── cdu_JogarJogodavelha.md   ← Especificação de Caso de Uso (CDU)
 ├── src/
 │   └── index.html                ← Aplicação completa (HTML + CSS + JS)
+├── index.html                    ← Entrada do GitHub Pages
 ├── README.md                     ← Este arquivo
 └── RELATORIO_PROMPTS.md          ← Relatório de uso de IA e auditoria
 ```
